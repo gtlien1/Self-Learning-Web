@@ -1,0 +1,26 @@
+p{
+    background-color: rgb(225, 0, 76);
+    color: black;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+
+}
+div{
+    color: blue;
+    font-size: 36px;
+
+}
+
+.extra{
+    font-size: 24px;
+}
+
+#div1{
+    color: blue;
+    font-size: 36px;
+
+}
+#div2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
